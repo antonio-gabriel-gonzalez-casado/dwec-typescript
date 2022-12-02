@@ -56,6 +56,6 @@ function rollTheDice(userName, maxOfTries) {
   }
   
   //Empieza el juego
-  const results = rollTheDice('TypeScript', "dd");
+  const results = rollTheDice('TypeScript', 2);
   
   console.log(results);
