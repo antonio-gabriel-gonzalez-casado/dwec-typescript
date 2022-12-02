@@ -1,0 +1,3 @@
+var cadena:any;
+
+//cadena.
