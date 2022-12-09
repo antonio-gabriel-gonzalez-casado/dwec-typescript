@@ -1,4 +1,4 @@
 var aprueba:boolean;
 
-aprueba = true;
-//aprueba = 1;
+aprueba = true; 
+aprueba = 1; 
